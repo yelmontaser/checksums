@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/serializer
+version:    v2.3.17
+sha1:       3cccd6a2f786ce0848693757381e5ee67c706cfc
+zip_sha1:   514a250807125a4b9bdca7070313f371d5d9fcf5
+files_sha1: 6692c37359078d4b3d5fed9d0ad8450f786e0b2e
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvuIACgkQ64qmmlZsB5X1dwD+Lrnv9LCvQIBpjacViDJSRvQ/
+nV7pPz3LvC/xE3LdDO0A/3ux9FK1zRaz7QmRXmDd7r324yBRkPvwk2FDcWMpJhPw
+=fEHf
+-----END PGP SIGNATURE-----

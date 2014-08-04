@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/css-selector
+version:    v2.4.7
+sha1:       256a9363b26594b92bf6b5b136c49f806458abaa
+zip_sha1:   f73a76ec57592247492835cf0449ec8e2e5e31d1
+files_sha1: 2ec8584bacce8635ca6590ef8c3f41e1866ba311
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvNUACgkQ64qmmlZsB5XP9QEApNUvp+KEQ3hKJAVwvKlt2cDA
+FX6MEpAnoHx9AbqYke4A/0dpaEylX0yNwdxU736O7I91cu9iNwBFC/QtJMG5FLn4
+=WFyL
+-----END PGP SIGNATURE-----

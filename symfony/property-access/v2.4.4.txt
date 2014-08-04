@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/property-access
+version:    v2.4.4
+sha1:       0456222bc00c40c1365065b603f7c397fb9a7134
+zip_sha1:   4d86f48fd6edd4b6e3c389a8ace03e55189a710c
+files_sha1: 41c35e5fbd8259b622dda6870ebda0f94e1e750a
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvmsACgkQ64qmmlZsB5UAmwD/WKpp+9CIuLZus0L+Fn03v3TU
+7O7kkcI+tmIANy6Vr8QBAI4tgBdD7QeDX0ymeYr1tLG3xaxT6dcr2sV0pTmNDJBs
+=ylEJ
+-----END PGP SIGNATURE-----

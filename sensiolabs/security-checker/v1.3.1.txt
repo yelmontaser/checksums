@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    sensiolabs/security-checker
+version:    v1.3.1
+sha1:       98b3a1e32eea9fb5368a1fcccf5884f34e27fc0d
+zip_sha1:   0762734c9ea963cdbf6ec04746b82f511f3ccaec
+files_sha1: cd56548f4dfd18485bdd02c16104643a0603afc3
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvFYACgkQ64qmmlZsB5UEKQEApwEzkNogU+J9iTp9BAL2p9qV
+NbfUVNKw18ha1QI6zk4A/1kynj+L/6FMmS8JVs/dam/oRnHILhNQzz5fECMwyFMo
+=wqEA
+-----END PGP SIGNATURE-----

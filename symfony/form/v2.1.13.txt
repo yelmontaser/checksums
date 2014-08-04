@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/form
+version:    v2.1.13
+sha1:       d2edecec0d0f854ed176f7ac32332d44fa31c696
+zip_sha1:   a149bfcb617797b3dbcbbf9e519f001ce5037147
+files_sha1: a81c85feb8bd837950939a21921c4c1ba3723d1c
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvXoACgkQ64qmmlZsB5Ul2QD+MmqycidG7JSKlORTOwVTeWq8
+4WZMYr7RJjxxy12/SkEBANP1kCvOSc3QwFehstZ8YmqPX5VoG4BN/NcdN5EAo7YS
+=NDOk
+-----END PGP SIGNATURE-----

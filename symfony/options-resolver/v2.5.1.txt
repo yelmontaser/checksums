@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/options-resolver
+version:    v2.5.1
+sha1:       851f89a9daf0d32dbcbce9409c40842a621f99de
+zip_sha1:   57f715f04e74c0247f318712c642a229ff1e4fb2
+files_sha1: bba2a6e3e7eb018eb0817cac4fc497e374cf3511
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvjcACgkQ64qmmlZsB5VPHgD/UGUhnWQ6ovCoIgkUkcPi6mrJ
+9Ud3Cz6+S094LgA84ykA/1wIaLDMLSnyssYhMVAlgbocCJ8yodCaqIzIl5B0gS4f
+=Z9ym
+-----END PGP SIGNATURE-----

@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/web-profiler-bundle
+version:    v2.4.0-BETA2
+sha1:       5a2caaea02535f20d4b7f1889a38261cbc781880
+zip_sha1:   57fe769891581f88217b2aa5e96c637a6e49e1d7
+files_sha1: e5e3fbc2485be271efdcc5a6ce658380b2f4b6fa
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfv/wACgkQ64qmmlZsB5UPzgD5AXB5n3RAmXF6bHAKDHDWGOxR
+RFhiaP4HDD9kux018k4A/0hcBVMkJ4Vg+Erk5/j5sjiz1lmdzScyeaOrLIFJty1K
+=r0lx
+-----END PGP SIGNATURE-----

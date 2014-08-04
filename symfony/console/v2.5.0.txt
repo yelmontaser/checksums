@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/console
+version:    v2.5.0
+sha1:       ef4ca73b0b3a10cbac653d3ca482d0cdd4502b2c
+zip_sha1:   aa5b33870acc40ccdbb0ee672b1bed6a32d1a609
+files_sha1: 8e6a087f005f8396a40090084d35515e623cf6e7
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF0EAREIAAYFAlPfvMAACgkQ64qmmlZsB5WkVAEAqjhHUNXOOOpOFjyJHTRCk3ge
+HRU3wXxnE15iqwqXtAQA+IvJYFVQpRGKah5NbD26aBtcl+kTJcTU5Uj3d3v2kWo=
+=tvnz
+-----END PGP SIGNATURE-----

@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/validator
+version:    v2.0.24
+sha1:       119ab7b5339da0dd41ec583fe644798a41be8a83
+zip_sha1:   6a5a6bba958e557ba34180a3f19b556739621df0
+files_sha1: c072783644d405041004c40c31285529962bfc16
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfv9cACgkQ64qmmlZsB5Xo0gD/XEroHCzj7Z8Oz3wAbK7ce66s
+uW7OB6lodpQ3m4901+gBAKfaaQtZIEkf33EYgC+DYGX6uwmAOSpSlBBtumd2UD9n
+=Lqz5
+-----END PGP SIGNATURE-----

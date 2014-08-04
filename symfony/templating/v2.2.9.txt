@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/templating
+version:    v2.2.9
+sha1:       c7117a77b07033cb0944a06bb8d0ad4072087ab9
+zip_sha1:   cf51c8359e71a21e0a75a4ddfbdf6704d6c66540
+files_sha1: 56571adf18a038747c07d1018d32d67ec1292c25
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfv4sACgkQ64qmmlZsB5W+nAD/e7N8/wl4SZiba1vVv3eqMhVZ
+uXYB0H8va0Dp3PBoUSQA/1Z+QP9lv6x7DCEo/We5Uvi/SuAZd5GFHEPHXf8Nojuu
+=jrjX
+-----END PGP SIGNATURE-----

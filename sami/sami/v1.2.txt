@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    sami/sami
+version:    v1.2
+sha1:       8d6d896c48766e0cb08b651fb5aca77a1dd788e0
+zip_sha1:   9ab5a040fe554cba9637b7c75f766769982c232d
+files_sha1: c5d426416b7d16309a9e954c16fdce6cd5452fa7
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvEEACgkQ64qmmlZsB5XRbgD/TUpdVEr8BipRY4A1806wVtnX
+czB/l7iEuSehZbZznZYA/jWIlGMZA0I04hHVvrLemtVWYmozjk2CVri1M1YbJ54c
+=508m
+-----END PGP SIGNATURE-----

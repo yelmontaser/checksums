@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/icu
+version:    v1.1.2
+sha1:       229730a14ccac63bb3c5d9f0494fcd27140c0dd3
+zip_sha1:   3ba730cde925180baf3ca67fd10c908920696721
+files_sha1: cabbc312392340b87db2d8244295cc0c27572fc9
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfveoACgkQ64qmmlZsB5VyEAEAkIS0cH2f6UzIh5GSW2XYH855
+VltNQZ9A6e4MdFdZ8OUA/1brdQwNytP6ljvPKdQyID3cZunjzsWyYR/YqGuEbAVH
+=xJ9V
+-----END PGP SIGNATURE-----

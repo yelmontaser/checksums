@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/monolog-bridge
+version:    v2.3.11
+sha1:       95ff05351131f2cddafdbcac335e1f1fd956d176
+zip_sha1:   27dc15d6d60e2cbe2755e7e050f36cdd4df01898
+files_sha1: d24cf211f09f555f2269ab8ec538b481fa1cace9
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvhkACgkQ64qmmlZsB5UU9gD9FrqBvrQkO9wT6yhN1pS/dXPx
+zonf7a7ljLHen289xd4A/2KWen79p04pvBEjrg6Idx6JhFEsa8LTsl0YbXy6Futu
+=M8Ui
+-----END PGP SIGNATURE-----

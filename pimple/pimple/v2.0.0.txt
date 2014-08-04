@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    pimple/pimple
+version:    v2.0.0
+sha1:       f99b3df12991c22463927aa6a18fd9b2212917f2
+zip_sha1:   c192c1c72975a2c18e948427d923292739ba8700
+files_sha1: eb76df36dbcd2d1009c4c4590e756c9a8cff0e8a
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvD4ACgkQ64qmmlZsB5WZfAEA2kFPQF03OA1U32iv7OpDEdo/
+3otRlXWJxzAGNw4julwA/338VGZ4yYExUYrCTallx2AehYI65geqyY14OpUOssaL
+=mX0g
+-----END PGP SIGNATURE-----

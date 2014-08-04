@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/class-loader
+version:    v2.2.6
+sha1:       827c54ee9827f6de5afe53324cdbe47f017c0cba
+zip_sha1:   170dd6d141bd71a73e4e72cdf1972ec28a44d04b
+files_sha1: ade3e491466088f1e427d77555379902c3ce17bf
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvIEACgkQ64qmmlZsB5XtfAEAkufN193CX3WKlB7cHaPA0NOS
+bW/Xhslqk2rpHMYhNrMBANaeHb3Lgo2f9la5s9DG5rnszmWW3E+lhUyheAWQleIG
+=GvAk
+-----END PGP SIGNATURE-----

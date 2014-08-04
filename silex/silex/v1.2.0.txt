@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    silex/silex
+version:    v1.2.0
+sha1:       aed7cb81eef9ba1082204027a0e3b60440a212e0
+zip_sha1:   cdaf742b8a4826e86dde1b05e1de7965bd9c7a97
+files_sha1: c37d05f2140263b9e241f4fb2af2928f6ca6d90e
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvFwACgkQ64qmmlZsB5X3wgD+PPb8KW0WjVi55HFQDYDf6cFQ
+5ZK7i8Ofct6NJ5UjYp4BANVfqFFseJ1NS7lYU5RIH09vp6hgR3gwb6IJcYmvPtYg
+=+2hP
+-----END PGP SIGNATURE-----

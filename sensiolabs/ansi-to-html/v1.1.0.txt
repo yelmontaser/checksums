@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    sensiolabs/ansi-to-html
+version:    v1.1.0
+sha1:       92d2ef7ffba5418be060d8ba8adaf7223d741f93
+zip_sha1:   08875573a301e9465e97737e061f4e8b64f5b7c2
+files_sha1: 444f7497f6f6086359559eed4d5c66957b165680
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvFMACgkQ64qmmlZsB5UVwwD/ZkckdXTFBCFDb9FuRq/5YbHT
+bfq5f+cc7WuNLffSBiwA/0Q3OOUYzZIm3q628Ev46NkvSHtovzQALEwWcvkhpOeO
+=nYjM
+-----END PGP SIGNATURE-----

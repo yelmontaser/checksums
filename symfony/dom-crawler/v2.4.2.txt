@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/dom-crawler
+version:    v2.4.2
+sha1:       5962504de9b36d955d88b08c1434d420627c8c01
+zip_sha1:   0de2d59459b2546284522f3cd4532a12ee5ae59e
+files_sha1: a30d174992ea605f602af6d072bcedeee354e407
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvSoACgkQ64qmmlZsB5WE+QEAob8xi83p5faYJClG3mlv5gX4
+9CyWyRhUn2M+Wn7c5I4A/1rt4rfz9/5ZTfp2fsAR+sGFDylUpWjbY/noU3SuTgsw
+=ChFt
+-----END PGP SIGNATURE-----

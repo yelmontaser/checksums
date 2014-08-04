@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    fabpot/goutte
+version:    v2.0.1
+sha1:       104ef44a9fc8a8dfe66fef5f8e8deb4567f3dc7c
+zip_sha1:   434ac4460c806d92b3a5d78af8a4d11f5a4ded7d
+files_sha1: 59be3c518d687c3e1af3b474994a3fa1164cbdf6
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvDYACgkQ64qmmlZsB5WhRAD+JmM1dmeGgYGzDopZF6vJIOHJ
+RvBmesCXX5gWEiSCCNQA/39wyWRp1lOWuJVSV5oighN1U4QpVak9raea9XHe0q5c
+=Q+WV
+-----END PGP SIGNATURE-----

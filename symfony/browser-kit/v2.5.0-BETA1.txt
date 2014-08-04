@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/browser-kit
+version:    v2.5.0-BETA1
+sha1:       cd7760fe96fc8ea3277fe65cfab800831d0d17d9
+zip_sha1:   630216cbe0d51b6e0e37263dcdd27d4c2ad22470
+files_sha1: 98f5b9d339d6dafa519c4928e3fb6366458ad9b6
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvHsACgkQ64qmmlZsB5VsGgD+ItgvIqNt58o0vON9oQLQ+56o
+55NusrIvM8VbwWvE9uMBANdwxaU+8KzWO4BBuU95TMSayW+CSR7cP0N3m8PGaqaL
+=nVs0
+-----END PGP SIGNATURE-----

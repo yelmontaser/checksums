@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/finder
+version:    v2.2.4
+sha1:       e2e53adf642ea31e088860967e29b3f71700c39a
+zip_sha1:   e5de9dac30d097427bdd2ae895997a868255f2d8
+files_sha1: 8d11b64383f78bcf4e7d67d74ce5473fbd4169c6
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvWMACgkQ64qmmlZsB5WrxgD/V5Zx7ebevfWRKyk/Y+xyyz0D
+jYam0//XOEyRgsxXNGEA/3rTqtNwVjP1UJOr6fahC+ESQdBmBIxgviPCmxXuHJ9V
+=dBsI
+-----END PGP SIGNATURE-----

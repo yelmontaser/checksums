@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/propel1-bridge
+version:    v2.2.11
+sha1:       dd4c171daf2e5924c8ec27d82292d6bb71224bd0
+zip_sha1:   fae445b92f85df9c23e9e20ee6e2de9297158547
+files_sha1: 450f43d9935b83836a619f264ad2c81d6c1423a2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvkwACgkQ64qmmlZsB5UmfwD9G4vkRw36M1p7cvTazmaHCzbk
+FRh4EVzhgTwNekM/hm8A/0kihOTfWuWLo3NrUZh/q1qvZRZUzhrcu/fC3r+8cyjk
+=Vvf9
+-----END PGP SIGNATURE-----

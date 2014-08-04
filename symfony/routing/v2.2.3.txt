@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/routing
+version:    v2.2.3
+sha1:       351917218674d07847cb51ba22f6934aaea745df
+zip_sha1:   0d76ce7bb297c0ebf6982421e6075cd7f48521cc
+files_sha1: 7604b5604ce3b0e5f26c87240380abe1bc78837a
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvoAACgkQ64qmmlZsB5WCrQD/XOVimzAvMjXnXMO5wsH+ER3f
+h4grWJV2WoiV1buRjuMA/i2hZuEujlwga634mdaBEaKkiH3G0wAtFzSxjYv/n7Jy
+=6T9C
+-----END PGP SIGNATURE-----

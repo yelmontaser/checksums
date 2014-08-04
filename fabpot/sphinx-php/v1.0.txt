@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    fabpot/sphinx-php
+version:    v1.0
+sha1:       6fea4b1c996bbbe5993232c37425222145de5380
+zip_sha1:   3eff7d88b5244673a00e9575a05a126e6358a094
+files_sha1: b81316c1f5ccda519c9a985fee75f8873818e2a2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvDwACgkQ64qmmlZsB5VOIgEA5HHiMlxkKdXkcLcEELXRVZdZ
+R5B4vuk/M2BSDAFGJzUA/iO6EtGS/ptRl4kvEvmVZpKG8lZkYFnsmlDBo4XpwUu0
+=roch
+-----END PGP SIGNATURE-----

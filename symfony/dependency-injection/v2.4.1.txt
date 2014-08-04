@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/dependency-injection
+version:    v2.4.1
+sha1:       7e5bde3a607dde1f8ddef5180759068ad53d259c
+zip_sha1:   3ae9473cdc517b23309c430e6fb906d6f27fb4fc
+files_sha1: cbccbb91ed5c652a3a4514d38ee5b2a718e49afe
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvP8ACgkQ64qmmlZsB5WTJwD/QpRjUI+4xi7kl/qVD8ftnFMg
+PSflfqC31e9jEGE4ALEBALa59+7H5PgS9vranSd9KFXGWcP6K4UCTCPpUPJVKb4E
+=Wau1
+-----END PGP SIGNATURE-----

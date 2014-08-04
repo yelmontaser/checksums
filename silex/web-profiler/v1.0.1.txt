@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    silex/web-profiler
+version:    v1.0.1
+sha1:       3d875ac4f583e893a076ec51478e38eeaf0cb562
+zip_sha1:   37cb3c1561583642697b920bdde7a6bc72a0dd6b
+files_sha1: 6fc1f9695f4680a9fcdaf1a3d08ee8cf3117b25f
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvFwACgkQ64qmmlZsB5W3EwEApCZqZ8naBPdwPaM8Te2rGtJG
+fAgEOb5LkjFSloW8/rEA/1mCxD+vJU0IWnbPX9R3MbPZVEdIfLAPEga2ZxNX+F3C
+=TH7/
+-----END PGP SIGNATURE-----

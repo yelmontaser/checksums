@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/security-csrf
+version:    v2.4.6
+sha1:       c6966798650608cbc51f7c3402938282398ac508
+zip_sha1:   e7edd3d6e386702aaef3b2273bf5864051794ede
+files_sha1: 59afc96909bbcb191b073f9842adaf126b807282
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvtAACgkQ64qmmlZsB5WT6QEA7fSdU1uv5T7MjMpdwqI5A13M
+bnsfciDP3BbVEsb5ZwsBAONpnAhKC8bC2BAJr22azujEQQ7FxKl7aTVWZtFfnEvf
+=Zlba
+-----END PGP SIGNATURE-----

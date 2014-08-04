@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    fabpot/silex-skeleton
+version:    v1.1.0
+sha1:       1ba9d37288829b702cc035afb3827bbfd592d996
+zip_sha1:   28e6a5b1a7a599d19595adc5767e7b17ae2d64e5
+files_sha1: d94f330185906014c2aa64d215cabc0badff7f0d
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvDsACgkQ64qmmlZsB5WDUgD/QlxY3RCqQsMB10ws7ETAIpRf
+ZQbMP/11EhfIKgf3AOYA/279S4qarIZfud/BbW6bEYt4PRZ1402FBm33XvQRELqA
+=szOx
+-----END PGP SIGNATURE-----

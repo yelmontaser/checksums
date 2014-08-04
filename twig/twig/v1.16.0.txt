@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    twig/twig
+version:    v1.16.0
+sha1:       8ce37115802e257a984a82d38254884085060024
+zip_sha1:   0b971ba7d6d5af1bfcf87602562f02f2233e2b32
+files_sha1: 4cc346eebaeed54dfa34a1c77d36136e164d9432
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfwBwACgkQ64qmmlZsB5WD6QD+KU86WyX0LHOHywyhboXFTIV5
+ECX9VSmqrC7k1+TLFDsA/AkqqbyeOnH57eZampa5J849+ECdxVJizbotW17wM0I/
+=ebxK
+-----END PGP SIGNATURE-----

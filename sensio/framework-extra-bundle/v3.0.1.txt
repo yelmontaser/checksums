@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    sensio/framework-extra-bundle
+version:    v3.0.1
+sha1:       dbc1e5aa830f3bf8063b29102add3c1e476d616e
+zip_sha1:   19da1be51cbca45d6e274af70e9ce6b0ef7f0b28
+files_sha1: 5e0af02b4073a468e84856b5d7a112e3338cb80f
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvE4ACgkQ64qmmlZsB5V3MwD/V7We+qI63045/C+k5RS4JisP
+6NP6mw1/rTJS5sozHq4A/jzL8HOneIuarRibXJl7hZvh0w/7p/RMaWpraiIJ4x+G
+=vqyM
+-----END PGP SIGNATURE-----

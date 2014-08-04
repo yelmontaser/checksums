@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    swiftmailer/swiftmailer
+version:    v5.2.1
+sha1:       2b9af56cc676c338d52fca4c657e5bdff73bb7af
+zip_sha1:   62c5756cf3a2773742e0e3c9127adc9a85ea1c40
+files_sha1: 8e005d4ccf7f63f1e8b3624debe937e34ba660c6
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvGMACgkQ64qmmlZsB5Xv0gD/S4yBYx/Yja3IVSq1rGjJVqqD
+CeKr0Qv3rgUDNMerHmMBAKaDQ/xw7ZoNGALVNS2CLEIjraHSfJj1698CyudSqwRz
+=27cf
+-----END PGP SIGNATURE-----

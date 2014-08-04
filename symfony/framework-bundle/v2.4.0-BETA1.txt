@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/framework-bundle
+version:    v2.4.0-BETA1
+sha1:       f79dc7620ed48a42445e3a9c70b634078445ac20
+zip_sha1:   888746b8a5f30485608f1970b335b34af0fe1c2e
+files_sha1: a8ff60ba6533134ea8b6a434a888418796a71240
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvaIACgkQ64qmmlZsB5Vh1AEAgA73f9/bU2VS7nmC/iUnz27V
+W81AP7BzcAWsmLwUUvcA/ij3uXa/GPlPrN/UJxnfqqOU7yhgOX6BuEoyB4/31hdc
+=j2qJ
+-----END PGP SIGNATURE-----

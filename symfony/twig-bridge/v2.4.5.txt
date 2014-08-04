@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/twig-bridge
+version:    v2.4.5
+sha1:       d74d4d3b3142abba67a003a25964299805641928
+zip_sha1:   12e5d15859750522f67ec8e8acbed942facd3e34
+files_sha1: 445dbaa5cb78cee8f6819ed2d7b2e68cfc220f62
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfv78ACgkQ64qmmlZsB5X1QwEAminUGOJ0nji2de1CHE8sD67y
+B+sQb24oOFEnjV3YxgcBANE6viwH0eHxV6xpjDN+bQzAKRphbBfZcTwm8umba9An
+=A2V1
+-----END PGP SIGNATURE-----

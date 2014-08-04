@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/stopwatch
+version:    v2.5.0-RC1
+sha1:       724d73604ebe6c1c9bdf36533b556123bd9075a1
+zip_sha1:   09a8b2a251ea3b6a9f626c12e3d7091f3594d848
+files_sha1: aa0e59efdf3a4f5d5d3e7df5c20555bf9768a50e
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvv8ACgkQ64qmmlZsB5UhXgD/SSMmggTy6wMOWx9hiHIoWldO
+I/RKHnpYPaTErtgS7ycA/0pjtmWM1IbsI2ZYWyAnFqQauszRRZSlenlmdBO7xb6q
+=bjDy
+-----END PGP SIGNATURE-----

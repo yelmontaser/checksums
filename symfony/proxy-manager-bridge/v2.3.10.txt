@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/proxy-manager-bridge
+version:    v2.3.10
+sha1:       7ad562d45068a2af4b074cb4166dd1875f0e68b1
+zip_sha1:   919dfd21c499fe81c20ca9d2d71839d17a1b18bf
+files_sha1: 901c0c7d0652e20e228501dce0e1e503aa595439
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvm8ACgkQ64qmmlZsB5Xa/QD/WkhNqV7tj3ejLv0jai6+I7eE
+nBDUXUqjt3wiprna3SsA+wSBQ8JyQeHkQcwJ0kUfQqilRQ7bQ3KlMqBvn9mgEyOK
+=Vk1F
+-----END PGP SIGNATURE-----

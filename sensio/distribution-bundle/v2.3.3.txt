@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    sensio/distribution-bundle
+version:    v2.3.3
+sha1:       4dad0ba10df54ea44581a51937f1a601b9d64575
+zip_sha1:   9fcc5ff4a40f0d2d120ac3157fcc7e3a35656959
+files_sha1: ddbefe2699a056a31c81a6f0f660d85396837de9
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvEcACgkQ64qmmlZsB5VKtAD+KJe3f4Aj90m82SsdWKfyg0UX
+2/BZlVJ1HVIkKCiEwZQA/A83AQQQAjygu631XEEiwV1FpGmzD1XuNcRcGzwXdZiJ
+=DhMf
+-----END PGP SIGNATURE-----

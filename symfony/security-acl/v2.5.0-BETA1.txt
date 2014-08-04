@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/security-acl
+version:    v2.5.0-BETA1
+sha1:       8ab3ad28e8df8f90deb5e19c0bd6bd5542b84eff
+zip_sha1:   95f6d81d51f302c054ae129d55fe4d2092c76923
+files_sha1: b41ef0658abab61d044839d5285d69774080ab40
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvq8ACgkQ64qmmlZsB5XUSgD8CgY+PtrsHBQXC7YJC3VNLQTu
+A3kCz7yItqSluJfx1qcA/iOxVzbMw5IEvjMlHDisbyxxilLRdqi0BCGJEgc/JrSD
+=197g
+-----END PGP SIGNATURE-----

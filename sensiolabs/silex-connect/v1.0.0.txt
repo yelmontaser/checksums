@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    sensiolabs/silex-connect
+version:    v1.0.0
+sha1:       b9a90cb8f67b11208e1486426f4bbede3c366155
+zip_sha1:   b98a6e8acf93262f1a612cc5852eb832d5c2e8fa
+files_sha1: 1dafaa756812d4bca7fee1b020979281ed8b0cf9
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPfvFkACgkQ64qmmlZsB5XpHwEAr+toSzKVUZBJ415IjUHIYFXl
+EGASpWnk4hNaltA7a7gA/iBvCcIeIoMJXkQ3q9dbmmBHD9UJVIKi175X5/tpLul4
+=qo1L
+-----END PGP SIGNATURE-----
