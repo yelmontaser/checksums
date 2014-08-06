@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/debug
+version:    2.5.3
+sha1:       189da713c1f8bb03f9184eb87b43ecbc732284ac
+zip_sha1:   606da105507358afc0f405a50d937214f4f13436
+files_sha1: 8128cbf766589c5436e0192938d15efe7787867a
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlPh9dMACgkQ64qmmlZsB5WMZwEAtD16EVTaH9Vkyng0GqwuO8sH
+PNQ2OoPSmuCM7jdlj24A/3d0+VATvYYiTvUF2Htc2nff/uVgJnbuRETCw37c+UB2
+=esBo
+-----END PGP SIGNATURE-----
