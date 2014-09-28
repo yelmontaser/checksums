@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/expression-language
+version:    2.4.10
+sha1:       b62ea6888654db504813ddf753dac6bd677beb61
+zip_sha1:   796cb4955435a4a090beab0e2c11437185473cdb
+files_sha1: 428d75e40699562bb83978da0fbffa64f4431f9d
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlQoQgkACgkQ64qmmlZsB5WvxgEAtcrFXfP+nVIcFXKviVhFcNNq
+JNJVM6m776HacSfBjyMA+wRYs9FCG3DgNOc1esXZFm+ISMp4WK/btYa/H9M2aK/B
+=A2yx
+-----END PGP SIGNATURE-----
