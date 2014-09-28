@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/event-dispatcher
+version:    2.5.5
+sha1:       f6281337bf5f985f585d1db6a83adb05ce531f46
+zip_sha1:   35cfd98d1e143ecb8d266200211a602ad5505a25
+files_sha1: ffb971fb08ce3b7b6233613603cacd3c7b3c3e6f
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlQoSa0ACgkQ64qmmlZsB5VAfAEAhn3PDR/Aul40Kt1A5ovqIFxL
+mvXfqcm7BwmbHo8J12QA/3QfsUdpBytAuWxhBdpK+3p6Fp6jTDTjoj2SpQ4qdBvS
+=x6lk
+-----END PGP SIGNATURE-----
