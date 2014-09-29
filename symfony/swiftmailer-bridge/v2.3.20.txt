@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/swiftmailer-bridge
+version:    2.3.20
+sha1:       2cbd27675147ffe6e8ee6140bb014380a420d7ff
+zip_sha1:   ac42c7e6762173389641088fbae85ab9a2cfa1d9
+files_sha1: a7d2cf854154c7d5ff4833c73261ee74d856c747
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlQpBxUACgkQ64qmmlZsB5V8mgEA2kf8nyqZw3s3ckxgFlArcHW2
+HbxbkS/h8X/YjhRha8sA/RtzzheZXr4v5fpgcbHFaopn1zCAuXtHw/vjnGrjHLx8
+=wOM5
+-----END PGP SIGNATURE-----
