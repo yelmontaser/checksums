@@ -26,7 +26,7 @@ It will output something along the lines of:
     willdurand/hateoas@1.0.x-dev                             --  unknown package
 
      1 packages are potentially corrupted.
-     Check that your did not add/modify/delete some files.
+     Check that you did not add/modify/delete some files.
 
 You can also check a directory manually by following the following steps. As an
 example, let's say I have a project using Symfony 2.4.2 (you can check the

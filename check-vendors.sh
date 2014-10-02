@@ -75,7 +75,7 @@ done
 echo ""
 if [ $BAD -ne 0 ]; then
     echo -e "\033[41;37m $BAD packages are potentially corrupted. \033[m"
-    echo -e "\033[41;37m Check that your did not add/modify/delete some files. \033[m"
+    echo -e "\033[41;37m Check that you did not add/modify/delete some files. \033[m"
     exit 1
 else
     echo -e "\033[42;37m Great! Checked packages are trusted. \033[m"
