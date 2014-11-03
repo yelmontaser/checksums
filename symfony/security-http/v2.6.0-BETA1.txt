@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/security-http
+version:    2.6.0-BETA1
+sha1:       9c315ec06c376fae441245958ccbe92ac18408f2
+zip_sha1:   f489da71f7f96ee351210a73fe6342cda223376d
+files_sha1: 6802aadca2714498b41db15ad969da36d3374326
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlRX58cACgkQ64qmmlZsB5W/sgEAkiCcCqLWvOEjtKFI6DqG7Lgc
+L7hLodo3pjaeC10x2mMBANpugVlG+7uDxm1A80YiyAaegv48hiT6BMJa/DC5HNoc
+=eciu
+-----END PGP SIGNATURE-----
