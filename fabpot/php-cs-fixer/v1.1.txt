@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    fabpot/php-cs-fixer
+version:    1.1
+sha1:       08a10b726562480180bf42d4370e0df95284cd1b
+zip_sha1:   e4fe9545a8d0ce82d7f87640d013ebee6076f156
+files_sha1: 5f4f9280e803702e43f1a6d2853eaa34d2e06341
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlRpsHMACgkQ64qmmlZsB5UkdgEA89WQ+SCX1YwJKnPs/4O79yrZ
+jBBG1OU/6kQzJ/Qq4ssA/inB3CQZ0fkDuQXG47tMSXg0YVtGL0RWIidBcIBBAqiQ
+=IZzE
+-----END PGP SIGNATURE-----
