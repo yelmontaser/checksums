@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/twig-bundle
+version:    2.6.0-BETA2
+sha1:       a857ebdb0d60c11fe9b8b49058377783bcbd6d91
+zip_sha1:   ac0e65544a151924488b3c82739bf4d805a8ec3c
+files_sha1: a99bb69f78c7806299acfc73a12a331c5cdd4af6
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlRyTogACgkQ64qmmlZsB5Uv6gEAxXCrETl1xUbsBFjzsf+kJZ38
+h8odjyN/Xjfq1NRqrckA/035DLIjnSMCHkQBwBo2vESc+F9ne4Ggtz5O8MwziFGM
+=sdh/
+-----END PGP SIGNATURE-----
