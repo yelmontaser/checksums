@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/var-dumper
+version:    2.6.1
+sha1:       8f3ee04faeca3b8418229b2efbfc8b2b8625b8aa
+zip_sha1:   a10ed1573288c1b649c05857d4ffe949517d14f1
+files_sha1: 803ade23e78ace968cdfe608685d5d54c3585f38
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlR/Qe0ACgkQ64qmmlZsB5WaaAEAlE9CXw6+oVYA0X/v6AZhq7lj
+r/02jQnpW+SFflqDgyMBALuLjoIuT1Qfj0UM55KXCoVBg1SjJ8CsfF012qdGXW5a
+=y1BG
+-----END PGP SIGNATURE-----
