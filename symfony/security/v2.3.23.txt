@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/security
+version:    2.3.23
+sha1:       c3100eb623f97650fa4cdede3e832a497b8e473c
+zip_sha1:   b8332b222c41ce2a677e3b9c9190eea5a5469f8e
+files_sha1: 8476beb04252c69251c88a166383fbd404340d5f
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlR/EzkACgkQ64qmmlZsB5V9HAD+INJmZ1vOOJI4itVjdIVczjcc
+86SN8dw+6H/5fgFYuwsA/3lqgXn8BSLYNYVAKuhVVoHNdzN81NuCmwimQaNjoQUZ
+=682j
+-----END PGP SIGNATURE-----

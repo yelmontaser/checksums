@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+package:    symfony/doctrine-bridge
+version:    2.3.23
+sha1:       3e51f85fcadf57978ec7e3e0c657a209e5cccc3e
+zip_sha1:   a7321ce47355010192401271f9f46696c5004cb5
+files_sha1: 0b0f7841d85613355e9511fa35282e2b678b8ee4
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iF4EAREIAAYFAlR/E0kACgkQ64qmmlZsB5UZggEAqwHGVgj890a6Icio0QEFmqZO
+USNMkJVOx5qzHdClP2YA/3MLnVYtVS1GTgA88TU/aMsAEENPf396izGrVijm38HT
+=yOjv
+-----END PGP SIGNATURE-----
